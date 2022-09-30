@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="293fa58d-a370-4206-94db-1e11359b1d37" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.8.5-bin/apache-maven-3.8.5" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Asoftware\Maven\apache-maven-3.8.5-bin\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29N8vnechNj6ACV694dIttlwCjv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Asoftware/JAVA/生产实习/cloud-stroy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;8f0a0d3cbae612a3a8bb5da394fd89c7&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Asoftware\JAVA\生产实习\cloud-company\company-admin\src\main\java\org\example\company" />
+      <recent name="D:\Asoftware\JAVA\生产实习\cloud-company\company-admin\src\main\java\org\example\company\pub" />
+      <recent name="D:\Asoftware\JAVA\生产实习\cloud-company" />
+      <recent name="D:\Asoftware\JAVA\生产实习\cloud-company\company-admin" />
+      <recent name="D:\Asoftware\JAVA\生产实习\cloud-company\company-user\src\main\java\org\example\company" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.company.user.dao" />
+      <recent name="org.example.company.user.model" />
+      <recent name="org.example.company.user.dto" />
+      <recent name="org.example.company.common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CompanyApp">
+    <configuration name="CompanyUserApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.company.CompanyUserApp" />
+      <module name="company-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="company-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.company.CompanyApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyUserApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="company-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.company.CompanyUserApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CompanyUserApp" />
+      <item itemvalue="Spring Boot.CompanyApp" />
+      <item itemvalue="应用程序.CompanyUserApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CompanyApp" />
+        <item itemvalue="Spring Boot.CompanyUserApp" />
+        <item itemvalue="应用程序.CompanyUserApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="293fa58d-a370-4206-94db-1e11359b1d37" name="变更" comment="" />
+      <created>1652942426973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652942426973</updated>
+      <workItem from="1652942428711" duration="14922000" />
+      <workItem from="1653009755253" duration="7250000" />
+      <workItem from="1653028383740" duration="6120000" />
+      <workItem from="1653227818761" duration="51000" />
+      <workItem from="1653535451747" duration="5131000" />
+      <workItem from="1653556873545" duration="1163000" />
+      <workItem from="1653574696288" duration="6867000" />
+      <workItem from="1653614488944" duration="12010000" />
+      <workItem from="1653639172428" duration="3313000" />
+      <workItem from="1653873663756" duration="12276000" />
+      <workItem from="1653913323496" duration="5945000" />
+      <workItem from="1653961634180" duration="6623000" />
+      <workItem from="1653984792324" duration="7155000" />
+      <workItem from="1654048493787" duration="4957000" />
+      <workItem from="1654054645398" duration="377000" />
+      <workItem from="1654067030468" duration="695000" />
+      <workItem from="1654093622248" duration="1084000" />
+      <workItem from="1654151387100" duration="1106000" />
+      <workItem from="1655627595986" duration="39000" />
+      <workItem from="1655628134244" duration="1310000" />
+      <workItem from="1655630126503" duration="4160000" />
+      <workItem from="1655640353467" duration="1367000" />
+      <workItem from="1655641759996" duration="1802000" />
+      <workItem from="1655649680540" duration="1053000" />
+      <workItem from="1655780544481" duration="53000" />
+      <workItem from="1660491150694" duration="38000" />
+      <workItem from="1660492043173" duration="255000" />
+      <workItem from="1664535182729" duration="1290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
