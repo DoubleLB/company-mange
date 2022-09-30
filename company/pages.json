@@ -1,0 +1,239 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "管理员"
+			}
+		},
+		{
+			"path": "pages/login/login_user",
+			"style": {
+				"navigationBarTitleText": "用户登录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "用户信息",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/user/user_img_update",
+			"style": {
+				"navigationBarTitleText": "更新图片",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/user/user-add",
+			"style": {
+				"navigationBarTitleText": "新增员工",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_user",
+			"style": {
+				"navigationBarTitleText": "员工信息",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_user_edit",
+			"style": {
+				"navigationBarTitleText": "编辑员工信息",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item",
+			"style": {
+				"navigationBarTitleText": "项目信息",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item_user",
+			"style": {
+				"navigationBarTitleText": "项目人员",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item_add",
+			"style": {
+				"navigationBarTitleText": "增加项目",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item_user_add",
+			"style": {
+				"navigationBarTitleText": "增加项目人员",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/adminhome",
+			"style": {
+				"navigationBarTitleText": "管理员界面",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_timeline",
+			"style": {
+				"navigationBarTitleText": "项目进度",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item_preparing",
+			"style": {
+				"navigationBarTitleText": "准备中项目",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item_processing",
+			"style": {
+				"navigationBarTitleText": "进行中项目",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_item_finished",
+			"style": {
+				"navigationBarTitleText": "已完成项目",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_department",
+			"style": {
+				"navigationBarTitleText": "查看所有部门",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_department_user",
+			"style": {
+				"navigationBarTitleText": "该部门员工",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_department_add",
+			"style": {
+				"navigationBarTitleText": "新增部门",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/admin/admin_role",
+			"style": {
+				"navigationBarTitleText": "查看所有职位",
+				"enablePullDownRefresh": false
+			}
+		
+		},
+		{
+			"path": "pages/admin/admin_role_add",
+			"style": {
+				"navigationBarTitleText": "新增职位",
+				"enablePullDownRefresh": false
+			}
+		
+		},
+		{
+			"path": "pages/admin/admin_role_user",
+			"style": {
+				"navigationBarTitleText": "该职位员工",
+				"enablePullDownRefresh": false
+			}
+		
+		},
+		{
+			"path": "pages/admin/admin_user_add",
+			"style": {
+				"navigationBarTitleText": "加入员工",
+				"enablePullDownRefresh": false
+			}
+		
+		},
+		
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		
+		},
+		{
+			"path": "pages/test/test2",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		
+		}
+		
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+	// "tabBar": {
+	// 	"color": "#7A7E83",
+	// 	"selectedColor": "#3cc51f",
+	// 	"borderStyle": "black",
+	// 	"backgroundColor": "#ffffff",
+	// 	"list": [{
+	// 			"pagePath": "pages/index/index",
+	// 			"iconPath": "static/home.svg",
+	// 			"selectedIconPath": "static/home_select.svg",
+	// 			"text": "首页"
+	// 		},
+	// 		{
+	// 			"pagePath": "pages/admin/admin_user",
+	// 			"iconPath": "static/employee.svg",
+	// 			"selectedIconPath": "static/employee_select.svg",
+	// 			"text": "员工信息"
+	// 		},
+	// 		{
+	// 			"pagePath": "pages/admin/admin_item",
+	// 			"iconPath": "static/order.svg",
+	// 			"selectedIconPath": "static/order_select.svg",
+	// 			"text": "项目信息"
+	// 		}, {
+	// 			"pagePath": "pages/admin/admin_mine",
+	// 			"iconPath": "static/mine.svg",
+	// 			"selectedIconPath": "static/mine_select.svg",
+	// 			"text": "我的"
+	// 		}
+	// 	]
+	// }
+}
